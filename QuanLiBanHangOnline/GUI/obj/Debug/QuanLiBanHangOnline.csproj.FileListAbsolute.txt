@@ -1,0 +1,57 @@
+D:\BAITAPOLOP\WINFORM\QuanLiBanHangOnline\QuanLiBanHangOnline\bin\Debug\QuanLiBanHangOnline.exe
+D:\BAITAPOLOP\WINFORM\QuanLiBanHangOnline\QuanLiBanHangOnline\bin\Debug\QuanLiBanHangOnline.pdb
+D:\BAITAPOLOP\WINFORM\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.Properties.Resources.resources
+D:\BAITAPOLOP\WINFORM\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.csproj.GenerateResource.cache
+D:\BAITAPOLOP\WINFORM\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.exe.licenses
+D:\BAITAPOLOP\WINFORM\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.csproj.CoreCompileInputs.cache
+D:\BAITAPOLOP\WINFORM\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.exe
+D:\BAITAPOLOP\WINFORM\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.pdb
+D:\BAITAPOLOP\WINFORM\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.csprojAssemblyReference.cache
+D:\BAITAPOLOP\WINFORM\QuanLiBanHangOnline\QuanLiBanHangOnline\bin\Debug\QuanLiBanHangOnline.exe.config
+D:\BAITAPOLOP\WINFORM\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.Quanlibanhang.resources
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\bin\Debug\QuanLiBanHangOnline.exe.config
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\bin\Debug\QuanLiBanHangOnline.exe
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\bin\Debug\QuanLiBanHangOnline.pdb
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.csprojAssemblyReference.cache
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.Quanlibanhang.resources
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.Properties.Resources.resources
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.csproj.GenerateResource.cache
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.exe.licenses
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.exe
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.pdb
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.GUI.UC_Khachhang.resources
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.GUI.UC_Cuahang.resources
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.GUI.UC_Doan.resources
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.GUI.UC_Douong.resources
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.GUI.UC_Capquyen.resources
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLyCuaHangThucAn.Control.UC_DangKy.resources
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLyCuaHangThucAn.Control.UC_DangNhap.resources
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.GUI.UC_Giaohang.resources
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLyCuaHangThucAn.Control.UC_PhieuDathang.resources
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.GUI.UC_TC_Doan_Douong.resources
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLyCuaHangThucAn.Control.UC_TTNhanVien.resources
+C:\Users\User\Desktop\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.GUI.UC_TTTaikhoan.resources
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\bin\Debug\QuanLiBanHangOnline.exe.config
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\bin\Debug\QuanLiBanHangOnline.exe
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\bin\Debug\QuanLiBanHangOnline.pdb
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.GUI.UC_Capquyen.resources
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.GUI.UC_Cuahang.resources
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLyCuaHangThucAn.Control.UC_DangKy.resources
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLyCuaHangThucAn.Control.UC_DangNhap.resources
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.GUI.UC_Doan.resources
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.GUI.UC_Douong.resources
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.GUI.UC_Giaohang.resources
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.GUI.UC_Khachhang.resources
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLyCuaHangThucAn.Control.UC_PhieuDathang.resources
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.GUI.UC_TC_Doan_Douong.resources
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLyCuaHangThucAn.Control.UC_TTNhanVien.resources
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.GUI.UC_TTTaikhoan.resources
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.Quanlibanhang.resources
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.Properties.Resources.resources
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.exe.licenses
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.exe
+C:\Users\User\Desktop\TUM LUM\phanmemquanlybanhangvagiaohangonilne-\QuanLiBanHangOnline\QuanLiBanHangOnline\obj\Debug\QuanLiBanHangOnline.pdb

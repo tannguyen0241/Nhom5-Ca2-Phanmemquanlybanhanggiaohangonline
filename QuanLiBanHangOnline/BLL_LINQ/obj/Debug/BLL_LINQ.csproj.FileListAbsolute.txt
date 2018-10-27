@@ -1,0 +1,7 @@
+D:\New folder\QuanLiBanHangOnline\BLL_LINQ\bin\Debug\BLL_LINQ.dll.config
+D:\New folder\QuanLiBanHangOnline\BLL_LINQ\bin\Debug\BLL_LINQ.dll
+D:\New folder\QuanLiBanHangOnline\BLL_LINQ\bin\Debug\BLL_LINQ.pdb
+D:\New folder\QuanLiBanHangOnline\BLL_LINQ\obj\Debug\BLL_LINQ.csprojAssemblyReference.cache
+D:\New folder\QuanLiBanHangOnline\BLL_LINQ\obj\Debug\BLL_LINQ.csproj.CoreCompileInputs.cache
+D:\New folder\QuanLiBanHangOnline\BLL_LINQ\obj\Debug\BLL_LINQ.dll
+D:\New folder\QuanLiBanHangOnline\BLL_LINQ\obj\Debug\BLL_LINQ.pdb

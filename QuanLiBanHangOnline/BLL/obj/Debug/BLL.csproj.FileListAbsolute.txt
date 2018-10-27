@@ -1,0 +1,9 @@
+D:\New folder\QuanLiBanHangOnline\BLL\bin\Debug\BLL.dll
+D:\New folder\QuanLiBanHangOnline\BLL\bin\Debug\BLL.pdb
+D:\New folder\QuanLiBanHangOnline\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\New folder\QuanLiBanHangOnline\BLL\obj\Debug\BLL.dll
+D:\New folder\QuanLiBanHangOnline\BLL\obj\Debug\BLL.pdb
+D:\New folder\QuanLiBanHangOnline\BLL\bin\Debug\DAL.dll
+D:\New folder\QuanLiBanHangOnline\BLL\bin\Debug\DAL.pdb
+D:\New folder\QuanLiBanHangOnline\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\New folder\QuanLiBanHangOnline\BLL\obj\Debug\BLL.csproj.CopyComplete

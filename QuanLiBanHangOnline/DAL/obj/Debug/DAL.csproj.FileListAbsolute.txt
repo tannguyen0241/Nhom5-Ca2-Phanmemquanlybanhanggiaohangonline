@@ -1,0 +1,13 @@
+D:\New folder\QuanLiBanHangOnline\DAL\bin\Debug\DAL.dll
+D:\New folder\QuanLiBanHangOnline\DAL\bin\Debug\DAL.pdb
+D:\New folder\QuanLiBanHangOnline\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\New folder\QuanLiBanHangOnline\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\New folder\QuanLiBanHangOnline\DAL\obj\Debug\DAL.dll
+D:\New folder\QuanLiBanHangOnline\DAL\obj\Debug\DAL.pdb
+C:\Users\cyme4\Documents\GitHub\Nhom5-Ca2-Phanmemquanlybanhanggiaohangonline\QuanLiBanHangOnline\DAL\bin\Debug\DAL.dll
+C:\Users\cyme4\Documents\GitHub\Nhom5-Ca2-Phanmemquanlybanhanggiaohangonline\QuanLiBanHangOnline\DAL\bin\Debug\DAL.pdb
+C:\Users\cyme4\Documents\GitHub\Nhom5-Ca2-Phanmemquanlybanhanggiaohangonline\QuanLiBanHangOnline\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\cyme4\Documents\GitHub\Nhom5-Ca2-Phanmemquanlybanhanggiaohangonline\QuanLiBanHangOnline\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\cyme4\Documents\GitHub\Nhom5-Ca2-Phanmemquanlybanhanggiaohangonline\QuanLiBanHangOnline\DAL\obj\Debug\DAL.dll
+C:\Users\cyme4\Documents\GitHub\Nhom5-Ca2-Phanmemquanlybanhanggiaohangonline\QuanLiBanHangOnline\DAL\obj\Debug\DAL.pdb
+C:\Users\cyme4\Documents\GitHub\Nhom5-Ca2-Phanmemquanlybanhanggiaohangonline\QuanLiBanHangOnline\DAL\bin\Debug\DAL.dll.config
